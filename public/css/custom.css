@@ -1,0 +1,15 @@
+.positive{
+    background-color: #3ad29f !important;
+}
+
+.negative{
+    background-color: #dc3545 !important;
+}
+
+.neutral{
+    background-color: #eea303 !important;
+}
+
+#pvc-states small{
+    font-size: 0.60rem !important;
+}
