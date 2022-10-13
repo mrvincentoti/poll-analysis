@@ -32,18 +32,18 @@ var columnChartWidget,
             show: 1,
         },
         labels: {
-            colors: ['#3ad29f', '#E91E63'],
-            useSeriesColors: true
+            colors: ['#3ad29f', '#dc3545'],
+            useSeriesColors: false
         },
-        fill: {
-            opacity: 1,
-            colors: ['#3ad29f', '#E91E63'],
-            image: {
-                src: ['../assets/images/atiku.jpg', '../assets/images/atiku.jpg', '../assets/images/atiku.jpg'],
-                width: undefined,
-                height: undefined
-            },
-        },
+        // fill: {
+        //     opacity: 1,
+        //     colors: ['#3ad29f', '#E91E63'],
+        //     image: {
+        //         src: ['../assets/images/atiku.jpg', '../assets/images/atiku.jpg', '../assets/images/atiku.jpg'],
+        //         width: undefined,
+        //         height: undefined
+        //     },
+        // },
         grid: { show: 1, padding: { top: 0, right: 0, bottom: 0, left: -15 } }
     },
     columnChartWidgetCtn = document.querySelector("#sentimentByCandidateChart-2");

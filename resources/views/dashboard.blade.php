@@ -18,8 +18,9 @@
                                 </div>
                             </div>
                             <div class="form-group">
-                                <button type="button" class="btn btn-sm"><span class="fe fe-refresh-ccw fe-16 text-muted"></span></button>
-                                <button type="button" class="btn btn-sm mr-2"><span class="fe fe-filter fe-16 text-muted"></span></button>
+                                <span>(Last 10 Days)</span>
+                                <!-- <button type="button" class="btn btn-sm"><span class="fe fe-refresh-ccw fe-16 text-muted"></span></button>
+                                <button type="button" class="btn btn-sm mr-2"><span class="fe fe-filter fe-16 text-muted"></span></button> -->
                             </div>
                         </form>
                     </div>
@@ -123,16 +124,25 @@
                         </div>
                     </div> <!-- Striped rows -->
                     <div class="col-md-12 col-lg-4">
+                        <div class="card shadow eq-card mb-4">
+                            <div class="card-header">
+                                <strong class="card-title">Most popular hasgtag</strong>
+                            </div>
+                            <div class="card-body">
+                                <div id="mostPopularHashtag"></div>
+                            </div> <!-- .card-body -->
+                        </div> <!-- .card -->
+                    </div> <!-- .col -->
+                    <!-- <div class="col-md-12 col-lg-4">
                         <div class="card shadow">
                             <div class="card-header">
                                 <strong class="card-title">Geographic</strong>
                             </div>
                             <div class="card-body my-n2">
-                                <!--div id="sentimentByCandidateChart" style="height: 332px;"></div-->
                                 <div id="geographic-map" style="height: 332px;"></div>
                             </div>
                         </div>
-                    </div> <!-- Striped rows -->
+                    </div> Striped rows -->
                 </div> <!-- .row-->
 
                 <div class="row items-align-baseline">
@@ -798,24 +808,15 @@
                             </div> <!-- / .card-body -->
                         </div>
                     </div>
-                    <div class="col-md-12 col-lg-4">
-                        <div class="card shadow eq-card mb-4">
-                            <div class="card-header">
-                                <strong class="card-title">Most popular hasgtag</strong>
-                            </div>
-                            <div class="card-body">
-                                <div id="mostPopularHashtag"></div>
-                            </div> <!-- .card-body -->
-                        </div> <!-- .card -->
-                    </div> <!-- .col -->
-                    <div class="col-md-12 col-lg-5">
+
+                    <div class="col-md-12 col-lg-9">
                         <div class="card shadow eq-card mb-4">
                             <div class="card-header">
                                 <strong class="card-title">Daily tweets( Past 10 days)</strong>
                             </div>
                             <div class="card-body">
-                                <div class="chart-widget mb-2">
-                                    <div id="dailyTweet"></div>
+                                <div class="chart-widget mb-2 mr-2">
+                                    <div id="dailyTweet" style="padding: 10px;"></div>
                                 </div>
                             </div> <!-- .card-body -->
                         </div> <!-- .card -->

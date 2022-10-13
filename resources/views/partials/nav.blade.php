@@ -39,8 +39,9 @@
                     </li>
                 </ul>
             </div>
-            <form class="form-inline ml-md-auto d-none d-lg-flex searchform text-muted">
-                <input class="form-control mr-sm-2 bg-transparent border-0 pl-4 text-muted" type="search" placeholder="Type something..." aria-label="Search">
+            <form class="form-inline ml-md-auto d-none d-lg-flex text-muted">
+                <span class="mr-sm-5 bg-transparent border-0 pl-4 text-muted">Powered By OANDI SOLDEV</span>
+                <!-- <input class="form-control mr-sm-2 bg-transparent border-0 pl-4 text-muted" type="search" placeholder="Type something..." aria-label="Search"> -->
             </form>
             <ul class="navbar-nav d-flex flex-row">
                 <li class="nav-item">
