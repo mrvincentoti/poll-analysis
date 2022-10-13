@@ -19,7 +19,7 @@ var columnChartWidget,
         },
         xaxis: {
             type: "text",
-            categories: ["Atiku", "Obi", "Tinubu"],
+            categories: ["Obi", "Tinubu", "Atiku"],
             labels: { show: 1 },
             axisTicks: { show: !1 },
             axisBorder: { show: !1 }
@@ -52,7 +52,7 @@ columnChartWidgetCtn && (columnChartWidget = new ApexCharts(columnChartWidgetCtn
 // donutChart
 var donutchart,
     donutChartOptions = {
-        series: generateRandomNumber(3400, 5000, 3),
+        series: [178, 161, 99],
         chart: {
             type: "donut", height: 305, zoom: { enabled: !1 }
         },
@@ -65,7 +65,7 @@ var donutchart,
                 expandOnClick: 1
             }
         },
-        labels: ["Atiku", "Obi", "Tinubu"],
+        labels: ["Obi", "Tinubu", "Atiku"],
         legend: {
             position: "bottom", fontFamily: base.defaultFontFamily, fontWeight: 400,
             labels: { colors: ['#3ad29f', '#E91E63', '#1b68ff'], useSeriesColors: !1 },
@@ -78,7 +78,6 @@ var donutchart,
         stroke: {
             colors: ['#3ad29f', '#E91E63', '#1b68ff'], width: 1
         },
-        fill: { opacity: 1, colors: ['#3ad29f', '#E91E63', '#1b68ff'] }
     },
     donutchartCtn = document.querySelector("#mostPopularHashtag");
 donutchartCtn && (donutchart = new ApexCharts(donutchartCtn, donutChartOptions)).render();
@@ -88,16 +87,16 @@ var lineChart,
     lineChartoptions = {
         series: [
             {
-                name: "Atiku",
-                data: generateRandomNumber(3400, 5000, 10),
-            },
-            {
                 name: "Obi",
-                data: generateRandomNumber(4250, 6100, 10),
+                data: generateRandomNumber(1, 1987, 10),
             },
             {
                 name: "Tinubu",
-                data: generateRandomNumber(1000, 3000, 10),
+                data: generateRandomNumber(1, 1789, 10),
+            },
+            {
+                name: "Atiku",
+                data: generateRandomNumber(1, 900, 10),
             }
         ],
         chart: {
@@ -398,3 +397,57 @@ var pieChartWidget,
     },
     pieChartWidgetCtn = document.querySelector("#pieChartWidget-11");
 pieChartWidgetCtn && (pieChartWidget = new ApexCharts(pieChartWidgetCtn, pieChartWidgetOptions)).render();
+
+
+// Tweets based on region
+var columnChartWidgetRegion,
+    columnChartWidgetoptionsRegion = {
+        series: [
+            { name: "Obi", data: generateRandomNumber(2400, 6000, 3) },
+            { name: "Tinubu", data: generateRandomNumber(1400, 2000, 3) },
+            { name: "Atiku", data: generateRandomNumber(1400, 2000, 3) },
+        ],
+        chart: {
+            type: "bar",
+            height: 316,
+            stacked: !1,
+            columnWidth: "70%",
+            toolbar: { show: !1 },
+            zoom: { enabled: !1 }
+        },
+        theme: { mode: colors.chartTheme },
+        dataLabels: { enabled: !1 },
+        plotOptions: {
+            bar: { horizontal: !1, columnWidth: "10%", radius: 20, enableShades: !1, endingShape: "rounded" }
+        },
+        xaxis: {
+            type: "text",
+            categories: ["North Central", "North West", "South South", "North East", "South East", "South West"],
+            labels: { show: 1 },
+            axisTicks: { show: !1 },
+            axisBorder: { show: !1 }
+        },
+        yaxis: {
+            labels: { show: 1 }
+        },
+        legend: {
+            position: 'top',
+            show: 1,
+        },
+        labels: {
+            colors: ['#3ad29f', '#E91E63'],
+            useSeriesColors: true
+        },
+        fill: {
+            opacity: 1,
+            colors: ['#3ad29f', '#E91E63'],
+            image: {
+                src: ['../assets/images/atiku.jpg', '../assets/images/atiku.jpg', '../assets/images/atiku.jpg'],
+                width: undefined,
+                height: undefined
+            },
+        },
+        grid: { show: 1, padding: { top: 0, right: 0, bottom: 0, left: -15 } }
+    },
+    columnChartWidgetCtnRegion = document.querySelector("#tweetsPerRegion");
+columnChartWidgetCtnRegion && (columnChartWidgetRegion = new ApexCharts(columnChartWidgetCtnRegion, columnChartWidgetoptionsRegion)).render();

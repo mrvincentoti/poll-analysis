@@ -499,6 +499,7 @@
   <script src="{{asset('js/statedata.js')}}"></script>
   <script src="{{asset('js/custom.js')}}"></script>
   <script src="{{asset('js/custom-chart.js')}}"></script>
+  <script src="{{asset('js/region.js')}}"></script>
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-56159088-1"></script>
   <script>
@@ -561,13 +562,13 @@
   <script>
     // create a data set
     var sentimentByCandidate = anychart.data.set([
-      ["Atiku", 10000, 12500, "#3ad29f", "#ff0000", null, {
+      ["Obi", 1600, 387, "#3ad29f", "#ff0000", null, {
         enabled: true
       }],
-      ["Obi", 12000, 15000, "#3ad29f", "#ff0000", null, {
+      ["Tinubu", 1200, 589, "#3ad29f", "#ff0000", null, {
         enabled: true
       }],
-      ["Tinubu", 13000, 16500, "#3ad29f", "#ff0000", null, {
+      ["Atiku", 560, 247, "#3ad29f", "#ff0000", null, {
         enabled: true
       }]
     ]);

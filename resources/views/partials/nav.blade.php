@@ -32,6 +32,11 @@
                             <span class="ml-lg-2">Sentiment Analysis</span><span class="sr-only">(current)</span>
                         </a>
                     </li>
+                    <li class="nav-item">
+                        <a href="{{ route('geodata') }}" class="nav-link">
+                            <span class="ml-lg-2">Tweets Analysis Per Region</span><span class="sr-only">(current)</span>
+                        </a>
+                    </li>
                 </ul>
             </div>
             <form class="form-inline ml-md-auto d-none d-lg-flex searchform text-muted">

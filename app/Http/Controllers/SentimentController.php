@@ -55,6 +55,11 @@ class SentimentController extends Controller
         return view('pvc');
     }
 
+    public function geodata()
+    {
+        return view('geodata');
+    }
+
     /**
      * Show the form for editing the specified resource.
      *
