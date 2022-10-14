@@ -303,6 +303,474 @@
                                                     <div class="pb-3 timeline-item item-primary">
                                                         <div class="pl-5">
                                                             <div class="mb-1 small">
+                                                                <strong>@Iam_Adekunley
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                    I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                    We are following the man that knows the way.
+                                                                </span>
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@Iam_Adekunley
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                    I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                    We are following the man that knows the way.
+                                                                </span>
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@Nobsdaslushhkid
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    When Peter Obi’s supporters started with the rallies, these people kept saying “ Wait,until campaign starts nah, you’d see”.
+                                                                    Nna’ it’s been 3 years since campaign started and even with your structure all over the world,noting is being felt.
+                                                                </span>
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@DavidHundeyin
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    I support Peter Obi because I believe in his mission and candidacy.
+                                                                    I also believe that anyone directly involved in Lekki Massacre denialism should be drowned in a vat of hydrochloric acid.
+                                                                    Both of these statements are true at the same time, and I mentioned only one name here.
+                                                                </span>
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@firstladyship
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    Peter Obi was with #EndSARS through & through. He never shied away from Responsibilities. There’ll be no crass dereliction of duty on his watch. Give Obi a break, he is no Jesus for Christ’s sake!
+                                                                </span>
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@obi_Nwosu
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    One thing I admire about Peter Obi, is the fact that he sees the role of President, like a serious job and he has been going from place to another trying to convince millions of Nigerians to employ him. The presidency is not by turn by turn or inheritance. PO wants to serve
+                                                                </span>
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@drpenking
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    A Presidential candidate that removes a controversial figure from his campaign team..
+                                                                    Is someone that listens to the youth..
+                                                                    A country that considers it youth is a country that priotises it future.
+                                                                    One again, Peter Obi is clear..
+                                                                </span>
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@Iam_Adekunley
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    Osun people defy heavy down pour to march for #Tinubu and #Shettima.
+                                                                    The love is real!
+                                                                </span>
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@Ahmy_ng
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    Evans the Kidnapper left #PeterObi’s Anambra state for #Tinubu’s Lagos state b’cos Anambra’s security architecture set up by
+                                                                    @PeterObi made it impossible 4 such elements to operate successfully” unlike Tinubu’s lagos where they saw a safe heaven 4 their operations.
+                                                                    Go & verify!!
+                                                                </span>
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@Oyefin_Oba
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    There are 371 tribes in Nigeria. #Tinubu is the only candidate that's tested and can be trusted to work with all tribes without any form of discrimination. But you see that "naanu"...his presidency will be an igbo presidency. Discrimination everywhere. Olorun maje ka ribi.
+                                                                </span>
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@Ahmy_ng
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                    I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                    We are following the man that knows the way.
+                                                                </span>
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@Ahmy_ng
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    Peter Obi appointed Gen. John Enenche, a man who discredited the Lekki massacre as a campaign team member & Obidients are trying to defend this; But if other candidates especially Atiku or Tinubu had done this, the internet will be on f!re. Y'all need to stop being hypocrites.
+                                                                </span>
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@DanielRegha
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    Peter Obi appointed Gen. John Enenche, a man who discredited the Lekki massacre as a campaign team member & Obidients are trying to defend this; But if other candidates especially Atiku or Tinubu had done this, the internet will be on f!re. Y'all need to stop being hypocrites.
+                                                                </span>
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@Wizebaba
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    Some of you want Peter Obi to fail so bad... He can't be perfect, the truth remains that he is a better choice than your Atiku and Tinubu.
+                                                                    PO or nothing.
+                                                                </span>
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@fisayosoyombo
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    When we criticise Tinubu or Atiku, we know the things you say.
+                                                                    But when we criticise Peter Obi, you go "do you want to vote Jesus Christ"?
+                                                                    I'm just watching your hypcrisy in 5D
+                                                                </span>
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@517p705
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    You're expecting too much.
+                                                                    Atiku was dishonest about Deborah's murder,
+                                                                    Dishonest on North vs South Presidential Zoning
+                                                                    Dishonest on party Chairmanship
+                                                                    Dishonest in Primaries
+                                                                    You want his followers to be honest about anything?
+                                                                    Bold of you. 😂😂
+                                                                    PDP is a cesspit of corruption.
+                                                                </span>
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@Nkemchor_
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    Wike was asked if he is campaigning for Atiku Abubakar,
+                                                                    Wike's response was "we are campaigning for PDP in Rivers state. He is not the only one in PDP. We have governorship candidate and Assembly members."
+                                                                    LoL Mikano Boys Wike won't release Rivers state money for your boss
+                                                                </span>
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@NengeTerna
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    Apart from Obi, I won't even leave my house on election day. I've voted Atiku more than once. There's no way I can vote APC. The issues that the PCC is generating are genuine but not enough to make not vote for Obi. My mind is made. We all have our faults. No going back
+                                                                </span>
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@jagganiyu
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    Of the three major presidential candidates i.e. Atiku, Shettima and Peter Obi, Peter Obi is the best among them.
+                                                                    We never called PO a messiah, we don’t expect him to fix the country overnight but we expect him to do a really good job.
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@DanielRegha
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    Obasanjo supported Buhari in 2015 & endorsed Atiku for president in 2018; We Nigerians criticized him over the years, but suddenly he's now the best ex-president cos he's endorsing ur faves. We d¤n't learn. Y'all want a new Nigeria when godfatherism is still at play? R!diculous.
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@ManLikeIcey
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    My fellow 4 Governors are very formidable, Atiku is very arrogant and has not won election yet.
+
+                                                                    - Nyesome Wike live on Channels Tv.
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@itzz_blitz1
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    Atiku deleting a tweet that was made from his handle condemning the killing of innocent Deborah and subsequently denying to have consented to the tweet is simply saying to the perpetrators "go ahead i dey your back".
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@VictorIsrael_
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    At this point Atiku and Tinubu should step down for Peter Obi and apologise to Nigerians for wasting their time. We will forgive them 📌
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@Tope_soft
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    Lowkey Atiku is uncharismatic and Boring.
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@FS_Yusuf_
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    PDP boys don finish meeting, them don come out dey defend Atiku deleting Deborah Tweet.🤣🤣🤣
+                                                                    Una fingers go brèak for typing today. 🤣
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@Aboki_Nagari
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    I joined the Obidient movement mainly because I believed in PO's philosophy, if I'll join money politics I'll have join Atiku's train or BAT (which I still have the chance) and I'll get millions but I decided to be here to see a new Nigeria.
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@enevene2003
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    Best Man for the Job.
+                                                                    Retweet for Tinubu
+                                                                    Like for Atiku.
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+
+
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@enevene2003
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    Some of you want Peter Obi to fail so bad... He can't be perfect, the truth remains that he is a better choice than your Atiku and Tinubu.
+                                                                    PO or nothing
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!---->
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
                                                                 <strong>@CHIJIOKE013
                                                                 </strong>
                                                                 <span class="text-muted mx-2">
@@ -792,7 +1260,779 @@
                                                             </p>
                                                         </div>
                                                     </div>
+                                                    <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pl-5">
+                                                            <div class="mb-1 small">
+                                                                <strong>@Iam_Adekunley
+                                                                </strong>
+                                                                <span class="text-muted mx-2">
+                                                                    Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                    I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                    We are following the man that knows the way.
+                                                                </span>
+                                                            </div>
+                                                            <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                            </p>
+                                                        </div>
 
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@AWaziri7
+
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        2023: Victory for Atiku is victory to OneNigeria & UnitedCitizens
+
+                                                                        LET'S MAKE IT HAPPEN!! 💯✔️
+                                                                        #AtikuOkowa2023
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">Oct 12</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@Iam_Adekunley
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                        I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                        We are following the man that knows the way.
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@AWaziri7
+
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        2023: Victory for Atiku is victory to OneNigeria & UnitedCitizens
+
+                                                                        LET'S MAKE IT HAPPEN!! 💯✔️
+                                                                        #AtikuOkowa2023
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">Oct 12</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pl-5">
+                                                                <div class="mb-1 small">
+                                                                    <strong>@AWaziri7
+
+                                                                    </strong>
+                                                                    <span class="text-muted mx-2">
+                                                                        2023: Victory for Atiku is victory to OneNigeria & UnitedCitizens
+
+                                                                        LET'S MAKE IT HAPPEN!! 💯✔️
+                                                                        #AtikuOkowa2023
+                                                                    </span>
+                                                                </div>
+                                                                <p class="small text-muted"><span class="badge badge-light">Oct 12</span>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
