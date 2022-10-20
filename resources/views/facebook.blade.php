@@ -6,7 +6,6 @@
         <div class="row justify-content-center">
             <div class="col-12">
                 <div class="row align-items-center mb-2">
-
                     <div class="col">
                         <h5>Switch Channel</h5>
                         <a href="{{ route('instagram') }}" type="button" class="btn mb-2 btn-outline-danger"><span class="fe fe-instagram fe-32"></span></a>
@@ -33,130 +32,10 @@
                 <div id="output">
 
                     <div class="row">
-                        <!-- Recent Activity -->
-                        <div class="col-md-12 col-lg-4 mb-4">
-                            <div class="card timeline shadow">
+                        <div class="col-md-3">
+                            <div class="card shadow eq-card timeline" style="background: #000000;">
                                 <div class="card-header">
-                                    <strong class="card-title">Influencers - Today</strong>
-                                </div>
-                                <div class="card-body" data-simplebar style="height:355px; overflow-y: auto; overflow-x: hidden;">
-                                    <div class="list-group list-group-flush my-n3">
-                                        <div class="list-group-item">
-                                            <div class="row align-items-center">
-                                                <div class="col-2">
-                                                    <a href="profile-posts.html" class="avatar avatar-sm">
-                                                        <img src="{{asset('assets/images/obi.jpg')}}" alt="..." class="avatar-img rounded-circle">
-                                                    </a>
-                                                </div>
-                                                <div class="col-4">
-                                                    <p class="small mb-0"><strong>Peter Obi</strong></p>
-                                                    <small>
-                                                        <a href="profile-posts.html" class="avatar avatar-sm">
-                                                            <img src="{{asset('assets/images/lp.jpg')}}" alt="..." class="avatar-img rounded-circle">
-                                                        </a>
-                                                    </small>
-                                                </div>
-                                                <div class="col-6">
-                                                    <h3 class="card-title mb-0 text-right counter-count">1987</h3>
-                                                    <p class="small text-muted mb-0 text-right">
-                                                        <span class="fe fe-arrow-up fe-12 text-success"></span>
-                                                        <span>+2.9%</span>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="list-group-item">
-                                            <div class="row align-items-center">
-                                                <div class="col-2">
-                                                    <a href="profile-posts.html" class="avatar avatar-sm">
-                                                        <img src="{{asset('assets/images/tinubu.jpg')}}" alt="..." class="avatar-img rounded-circle">
-                                                    </a>
-                                                </div>
-                                                <div class="col-4">
-                                                    <p class="small mb-0"><strong>Bola Tinubu</strong></p>
-                                                    <small>
-                                                        <a href="profile-posts.html" class="avatar avatar-sm">
-                                                            <img src="{{asset('assets/images/apc.jpg')}}" alt="..." class="avatar-img rounded-circle">
-                                                        </a>
-                                                    </small>
-                                                </div>
-                                                <div class="col-6">
-                                                    <h3 class="card-title mb-0 text-right counter-count">1789</h3>
-                                                    <p class="small text-muted mb-0 text-right">
-                                                        <span class="fe fe-arrow-up fe-12 text-success"></span>
-                                                        <span>+1.9%</span>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="list-group-item">
-                                            <div class="row align-items-center">
-                                                <div class="col-2">
-                                                    <a href="profile-posts.html" class="avatar avatar-sm">
-                                                        <img src="{{asset('assets/images/atiku.jpg')}}" alt="..." class="avatar-img rounded-circle">
-                                                    </a>
-                                                </div>
-                                                <div class="col-4">
-                                                    <p class="small mb-0"><strong>Atiku Abubakar</strong></p>
-                                                    <small>
-                                                        <a href="profile-posts.html" class="avatar avatar-sm">
-                                                            <img src="{{asset('assets/images/pdp.png')}}" alt="..." class="avatar-img rounded-circle">
-                                                        </a>
-                                                    </small>
-                                                </div>
-                                                <div class="col-6">
-                                                    <h3 class="card-title mb-0 text-right counter-count">807</h3>
-                                                    <p class="small text-muted mb-0 text-right">
-                                                        <span class="fe fe-arrow-up fe-12 text-success"></span>
-                                                        <span>-0.3%</span>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div> <!-- / .list-group -->
-                                </div> <!-- / .card-body -->
-                            </div> <!-- / .card -->
-                        </div> <!-- / .col-md-6 -->
-                        <!-- Striped rows -->
-                        <div class="col-md-12 col-lg-4">
-                            <div class="card shadow">
-                                <div class="card-header">
-                                    <strong class="card-title">Competition</strong>
-                                </div>
-                                <div class="card-body my-n2">
-                                    <!--div id="sentimentByCandidateChart" style="height: 332px;"></div-->
-                                    <div id="sentimentByCandidateChart-2" style="height: 332px;"></div>
-                                </div>
-                            </div>
-                        </div> <!-- Striped rows -->
-                        <div class="col-md-12 col-lg-4">
-                            <div class="card shadow eq-card mb-4">
-                                <div class="card-header">
-                                    <strong class="card-title">Most popular hasgtag</strong>
-                                </div>
-                                <div class="card-body">
-                                    <div id="mostPopularHashtag"></div>
-                                </div> <!-- .card-body -->
-                            </div> <!-- .card -->
-                        </div> <!-- .col -->
-                        <!-- <div class="col-md-12 col-lg-4">
-                        <div class="card shadow">
-                            <div class="card-header">
-                                <strong class="card-title">Geographic</strong>
-                            </div>
-                            <div class="card-body my-n2">
-                                <div id="geographic-map" style="height: 332px;"></div>
-                            </div>
-                        </div>
-                    </div> Striped rows -->
-                    </div> <!-- .row-->
-
-                    <div class="row items-align-baseline">
-                        <div class="col-md-12 col-lg-3">
-                            <div class="card shadow eq-card timeline">
-                                <div class="card-header">
-                                    <strong class="card-title">Tweets</strong>
-                                    <a class="float-right small text-muted" href="{{ route('geodata') }}">Geo Data</a>
+                                    <strong class="card-title">Posts</strong>
                                 </div>
                                 <div class="card-body" data-simplebar="init" style="height: 360px; overflow-y: auto; overflow-x: hidden;">
                                     <div class="simplebar-wrapper" style="margin: -20px;">
@@ -167,7 +46,7 @@
                                             <div class="simplebar-offset" style="right: 0px; bottom: 0px;">
                                                 <div class="simplebar-content-wrapper" style="height: 100%; overflow: hidden scroll;">
                                                     <div class="simplebar-content" style="padding: 20px;">
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Iam_Adekunley
@@ -183,7 +62,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Iam_Adekunley
@@ -198,7 +77,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Iam_Adekunley</strong>
@@ -215,7 +94,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@officialABAT</strong>
@@ -228,7 +107,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Iam_Adekunley</strong>
@@ -241,7 +120,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Oceediary</strong>
@@ -254,7 +133,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>
@@ -268,7 +147,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Jessehallidaygi
@@ -281,7 +160,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@mgbikss
@@ -294,7 +173,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@PeterObiUpdates</strong>
@@ -306,7 +185,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Iam_Adekunley
@@ -324,7 +203,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Iam_Adekunley
@@ -342,7 +221,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Nobsdaslushhkid
@@ -359,7 +238,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@DavidHundeyin
@@ -377,7 +256,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@firstladyship
@@ -393,7 +272,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@obi_Nwosu
@@ -409,7 +288,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@drpenking
@@ -428,7 +307,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Iam_Adekunley
@@ -445,7 +324,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Ahmy_ng
@@ -462,7 +341,7 @@
                                                         </div>
                                                         <!---->
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Oyefin_Oba
@@ -478,7 +357,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Ahmy_ng
@@ -496,7 +375,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Ahmy_ng
@@ -512,7 +391,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@DanielRegha
@@ -528,7 +407,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Wizebaba
@@ -545,7 +424,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@fisayosoyombo
@@ -563,7 +442,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@517p705
@@ -586,7 +465,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Nkemchor_
@@ -604,7 +483,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@NengeTerna
@@ -619,7 +498,7 @@
                                                         </div>
                                                         <!---->
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@jagganiyu
@@ -635,7 +514,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@DanielRegha
@@ -650,7 +529,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@ManLikeIcey
@@ -667,7 +546,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@itzz_blitz1
@@ -682,7 +561,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@VictorIsrael_
@@ -697,7 +576,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Tope_soft
@@ -712,7 +591,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@FS_Yusuf_
@@ -728,7 +607,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Aboki_Nagari
@@ -743,7 +622,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@enevene2003
@@ -760,7 +639,7 @@
                                                         <!---->
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@enevene2003
@@ -774,7 +653,7 @@
                                                             </div>
                                                         </div>
                                                         <!---->
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@CHIJIOKE013
@@ -787,7 +666,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@ije86</strong>
@@ -801,7 +680,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Iam_Adekunley</strong>
@@ -815,7 +694,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@multimeverse
@@ -828,7 +707,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>
@@ -844,7 +723,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Omenka7Crown</strong>
@@ -856,7 +735,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@AO23NG</strong>
@@ -869,7 +748,7 @@
                                                             </div>
                                                         </div>
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@tjaybit</strong>
@@ -882,7 +761,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Rasheethe
@@ -897,7 +776,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Iam_Adekunley</strong>
@@ -911,7 +790,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@ABBAADA47983410
@@ -930,7 +809,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Iam_Adekunley</strong>
@@ -944,7 +823,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@IAOkowa</strong>
@@ -964,7 +843,7 @@
 
 
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@ABBAADA47983410
@@ -983,7 +862,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@ABBAADA47983410
@@ -1002,7 +881,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@ABBAADA47983410
@@ -1021,7 +900,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@ABBAADA47983410
@@ -1040,7 +919,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@ABBAADA47983410
@@ -1059,7 +938,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@ABBAADA47983410
@@ -1078,7 +957,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@ABBAADA47983410
@@ -1097,7 +976,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@ABBAADA47983410
@@ -1116,7 +995,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@abuson001
@@ -1150,7 +1029,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@iyorchiayu
@@ -1163,7 +1042,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@JustinIke111
@@ -1180,7 +1059,7 @@
                                                             </div>
                                                         </div>
 
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@IAOkowa
@@ -1196,7 +1075,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@bukolasaraki
@@ -1214,7 +1093,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@AWaziri7
@@ -1230,7 +1109,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@AWaziri7
@@ -1247,7 +1126,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@ABBAADA47983410
@@ -1266,7 +1145,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="pb-3 timeline-item item-primary">
+                                                        <div class="pb-3 timeline-item item-danger">
                                                             <div class="pl-5">
                                                                 <div class="mb-1 small">
                                                                     <strong>@Iam_Adekunley
@@ -1281,7 +1160,7 @@
                                                                 </p>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1297,7 +1176,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1313,7 +1192,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1329,7 +1208,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@AWaziri7
@@ -1348,7 +1227,7 @@
                                                             </div>
 
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1364,7 +1243,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1380,7 +1259,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1396,7 +1275,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1412,7 +1291,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1429,7 +1308,7 @@
                                                             </div>
 
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1445,7 +1324,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1461,7 +1340,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1477,7 +1356,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1493,7 +1372,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1509,7 +1388,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1525,7 +1404,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1541,7 +1420,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1557,7 +1436,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1573,7 +1452,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1589,7 +1468,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1605,7 +1484,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1621,7 +1500,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1637,7 +1516,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1653,7 +1532,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1669,7 +1548,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1685,7 +1564,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1701,7 +1580,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1717,7 +1596,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1733,7 +1612,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1749,7 +1628,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1765,7 +1644,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1781,7 +1660,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1797,7 +1676,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1813,7 +1692,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1829,7 +1708,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1845,7 +1724,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1861,7 +1740,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1876,23 +1755,7 @@
                                                                     </p>
                                                                 </div>
                                                             </div>
-                                                            <div class="pb-3 timeline-item item-primary">
-                                                                <div class="pl-5">
-                                                                    <div class="mb-1 small">
-                                                                        <strong>@Iam_Adekunley
-                                                                        </strong>
-                                                                        <span class="text-muted mx-2">
-                                                                            Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
-                                                                            I don't envy OBIdients, they are selling a product they once called trash😀😀😀
-                                                                            We are following the man that knows the way.
-                                                                        </span>
-                                                                    </div>
-                                                                    <p class="small text-muted"><span class="badge badge-light">6h</span>
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1908,7 +1771,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1924,7 +1787,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1940,7 +1803,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1956,22 +1819,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
-                                                                <div class="pl-5">
-                                                                    <div class="mb-1 small">
-                                                                        <strong>@Iam_Adekunley
-                                                                        </strong>
-                                                                        <span class="text-muted mx-2">
-                                                                            Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
-                                                                            I don't envy OBIdients, they are selling a product they once called trash😀😀😀
-                                                                            We are following the man that knows the way.
-                                                                        </span>
-                                                                    </div>
-                                                                    <p class="small text-muted"><span class="badge badge-light">6h</span>
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -1987,7 +1835,22 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
+                                                                <div class="pl-5">
+                                                                    <div class="mb-1 small">
+                                                                        <strong>@Iam_Adekunley
+                                                                        </strong>
+                                                                        <span class="text-muted mx-2">
+                                                                            Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                            I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                            We are following the man that knows the way.
+                                                                        </span>
+                                                                    </div>
+                                                                    <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@Iam_Adekunley
@@ -2003,7 +1866,23 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
+                                                                <div class="pl-5">
+                                                                    <div class="mb-1 small">
+                                                                        <strong>@Iam_Adekunley
+                                                                        </strong>
+                                                                        <span class="text-muted mx-2">
+                                                                            Campaigning for #Tinubu is so easy, highly sellable, widely accepted.
+                                                                            I don't envy OBIdients, they are selling a product they once called trash😀😀😀
+                                                                            We are following the man that knows the way.
+                                                                        </span>
+                                                                    </div>
+                                                                    <p class="small text-muted"><span class="badge badge-light">6h</span>
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@AWaziri7
@@ -2021,7 +1900,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="pb-3 timeline-item item-primary">
+                                                            <div class="pb-3 timeline-item item-danger">
                                                                 <div class="pl-5">
                                                                     <div class="mb-1 small">
                                                                         <strong>@AWaziri7
@@ -2054,20 +1933,125 @@
                                 </div> <!-- / .card-body -->
                             </div>
                         </div>
-
-                        <div class="col-md-12 col-lg-9">
-                            <div class="card shadow eq-card mb-4">
+                        <div class="col-md-5">
+                            <div class="card shadow">
                                 <div class="card-header">
-                                    <strong class="card-title">Daily tweets( Past 10 days)</strong>
+                                    <strong class="card-title mb-0">Posts Analysis Per Region</strong>
+                                    <div class="dropdown float-right">
+                                    </div>
                                 </div>
                                 <div class="card-body">
-                                    <div class="chart-widget mb-2 mr-2">
-                                        <div id="dailyTweet" style="padding: 10px;"></div>
+                                    <div class="chartjs-size-monitor">
+                                        <div class="chartjs-size-monitor-expand">
+                                            <div class=""></div>
+                                        </div>
+                                        <div class="chartjs-size-monitor-shrink">
+                                            <div class=""></div>
+                                        </div>
                                     </div>
-                                </div> <!-- .card-body -->
-                            </div> <!-- .card -->
-                        </div> <!-- .col -->
-                    </div> <!-- .row -->
+                                    <canvas id="barChartjsRegion10" width="1138" height="475" style="display: block; height: 300px; width: 911px;" class="chartjs-render-monitor"></canvas>
+                                </div> <!-- /.card-body -->
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="col-md-12 col-lg-12 mb-4">
+                                <div class="card timeline shadow">
+                                    <div class="card-header">
+                                        <strong class="card-title">Influencers - Today</strong>
+                                    </div>
+                                    <div class="card-body" data-simplebar style="height:355px; overflow-y: auto; overflow-x: hidden;">
+                                        <div class="list-group list-group-flush my-n3">
+                                            <div class="list-group-item">
+                                                <div class="row align-items-center">
+                                                    <div class="col-2">
+                                                        <a href="profile-posts.html" class="avatar avatar-sm">
+                                                            <img src="{{asset('assets/images/tinubu.jpg')}}" alt="..." class="avatar-img rounded-circle">
+                                                        </a>
+                                                    </div>
+                                                    <div class="col-4">
+                                                        <p class="small mb-0"><strong>Bola Tinubu</strong></p>
+                                                        <small>
+                                                            <a href="profile-posts.html" class="avatar avatar-sm">
+                                                                <img src="{{asset('assets/images/apc.jpg')}}" alt="..." class="avatar-img rounded-circle">
+                                                            </a>
+                                                        </small>
+                                                    </div>
+                                                    <div class="col-6">
+                                                        <h3 class="card-title mb-0 text-right counter-count">1029</h3>
+                                                        <p class="small text-muted mb-0 text-right">
+                                                            <span class="fe fe-arrow-up fe-12 text-success"></span>
+                                                            <span>+1.9%</span>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="list-group-item">
+                                                <div class="row align-items-center">
+                                                    <div class="col-2">
+                                                        <a href="profile-posts.html" class="avatar avatar-sm">
+                                                            <img src="{{asset('assets/images/obi.jpg')}}" alt="..." class="avatar-img rounded-circle">
+                                                        </a>
+                                                    </div>
+                                                    <div class="col-4">
+                                                        <p class="small mb-0"><strong>Peter Obi</strong></p>
+                                                        <small>
+                                                            <a href="profile-posts.html" class="avatar avatar-sm">
+                                                                <img src="{{asset('assets/images/lp.jpg')}}" alt="..." class="avatar-img rounded-circle">
+                                                            </a>
+                                                        </small>
+                                                    </div>
+                                                    <div class="col-6">
+                                                        <h3 class="card-title mb-0 text-right counter-count">897</h3>
+                                                        <p class="small text-muted mb-0 text-right">
+                                                            <span class="fe fe-arrow-down fe-12 text-danger"></span>
+                                                            <span>-5.1%</span>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="list-group-item">
+                                                <div class="row align-items-center">
+                                                    <div class="col-2">
+                                                        <a href="profile-posts.html" class="avatar avatar-sm">
+                                                            <img src="{{asset('assets/images/atiku.jpg')}}" alt="..." class="avatar-img rounded-circle">
+                                                        </a>
+                                                    </div>
+                                                    <div class="col-4">
+                                                        <p class="small mb-0"><strong>Atiku Abubakar</strong></p>
+                                                        <small>
+                                                            <a href="profile-posts.html" class="avatar avatar-sm">
+                                                                <img src="{{asset('assets/images/pdp.png')}}" alt="..." class="avatar-img rounded-circle">
+                                                            </a>
+                                                        </small>
+                                                    </div>
+                                                    <div class="col-6">
+                                                        <h3 class="card-title mb-0 text-right counter-count">807</h3>
+                                                        <p class="small text-muted mb-0 text-right">
+                                                            <span class="fe fe-arrow-up fe-12 text-success"></span>
+                                                            <span>-0.3%</span>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div> <!-- / .list-group -->
+                                    </div> <!-- / .card-body -->
+                                </div> <!-- / .card -->
+                            </div> <!-- / .col-md-6 -->
+                            <!-- Striped rows -->
+                            <div class="col-md-12 col-lg-12">
+                                <div class="card shadow">
+                                    <div class="card-header">
+                                        <strong class="card-title">Competition</strong>
+                                    </div>
+                                    <div class="card-body my-n2">
+                                        <!--div id="sentimentByCandidateChart" style="height: 332px;"></div-->
+                                        <div id="sentimentByCandidateChart-10" style="height: 332px;"></div>
+                                    </div>
+                                </div>
+                            </div> <!-- Striped rows -->
+                        </div>
+                        <!-- Recent Activity -->
+                    </div> <!-- .row-->
                 </div>
             </div> <!-- .col-12 -->
         </div> <!-- .row -->

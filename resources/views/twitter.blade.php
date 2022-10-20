@@ -1,37 +1,3 @@
-@extends('layouts.app')
-
-@section('content')
-<main role="main" class="main-content">
-    <div class="container-fluid">
-        <div class="row justify-content-center">
-            <div class="col-12">
-                <div class="row align-items-center mb-2">
-
-                    <div class="col">
-                        <h5>Switch Channel</h5>
-                        <a href="{{ route('instagram') }}" type="button" class="btn mb-2 btn-outline-danger"><span class="fe fe-instagram fe-32"></span></a>
-                        <a href="{{ route('facebook') }}" type="button" class="btn mb-2 btn-outline-primary"><span class="fe fe-facebook fe-32"></span></a>
-                        <a href="{{ route('sentiments') }}" type="button" class="btn mb-2 btn-outline-success"><span class="fe fe-twitter fe-32"></span></a>
-                    </div>
-                    <div class="col text-center" style="margin-top: 20px;">
-                        <span style="font-size: 25px; font-weight: bold;">INSTAGRAM</span>
-                    </div>
-                    <div class="col text-center" style="margin-top: 25px;">
-
-                        <div class="form-group d-none d-lg-inline">
-                            <label for="reportrange" class="sr-only">Date Ranges</label>
-                            <div id="reportrange" class="px-2 py-2 text-muted">
-                                <span class="small"></span>
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <span>(Last 10 Days)</span>
-                        </div>
-
-                    </div>
-                </div>
-                <div id="output">
-
                     <div class="row">
                         <!-- Recent Activity -->
                         <div class="col-md-12 col-lg-4 mb-4">
@@ -125,7 +91,7 @@
                                 </div>
                                 <div class="card-body my-n2">
                                     <!--div id="sentimentByCandidateChart" style="height: 332px;"></div-->
-                                    <div id="sentimentByCandidateChart-2" style="height: 332px;"></div>
+                                    <div id="sentimentByCandidateChart-3" style="height: 332px;"></div>
                                 </div>
                             </div>
                         </div> <!-- Striped rows -->
@@ -2068,10 +2034,3 @@
                             </div> <!-- .card -->
                         </div> <!-- .col -->
                     </div> <!-- .row -->
-                </div>
-            </div> <!-- .col-12 -->
-        </div> <!-- .row -->
-    </div> <!-- .container-fluid -->
-
-</main> <!-- main -->
-@endsection

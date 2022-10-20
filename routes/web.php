@@ -21,3 +21,5 @@ Route::get('/', function () {
 Route::get('/sentiment/analysis', [SentimentController::class, 'show'])->name('sentiments');
 Route::get('/sentiment/analysis/geodata', [SentimentController::class, 'geodata'])->name('geodata');
 Route::get('/pvc/analysis', [SentimentController::class, 'pvc'])->name('pvc');
+Route::get('/sentiment/facebook', [SentimentController::class, 'facebook'])->name('facebook');
+Route::get('/sentiment/instagram', [SentimentController::class, 'instagram'])->name('instagram');

@@ -75,6 +75,8 @@
   <script src="https://cdn.anychart.com/releases/v8/js/anychart-ui.min.js"></script>
   <script src="{{asset('js/nigeria.js')}}"></script>
   <script src="{{asset('js/proj4.js')}}" data-export="true"></script>
+  <script src="{{asset('js/facebook.js')}}" data-export="true"></script>
+  <script src="{{asset('js/facebook-region.js')}}" data-export="true"></script>
   <script>
     // create data
     // create a data set

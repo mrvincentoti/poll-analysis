@@ -1,8 +1,8 @@
-var columnChartWidget,
-    columnChartWidgetoptions = {
+var columnChartWidget10,
+    columnChartWidgetoptions10 = {
         series: [
-            { name: "Positive", data: generateRandomNumber(2400, 6000, 3) },
-            { name: "Negative", data: generateRandomNumber(1400, 2000, 3) }
+            { name: "Positive", data: generateRandomNumber(300, 6000, 3) },
+            { name: "Negative", data: generateRandomNumber(400, 2000, 3) }
         ],
         chart: {
             type: "bar",
@@ -19,7 +19,7 @@ var columnChartWidget,
         },
         xaxis: {
             type: "text",
-            categories: ["Obi", "Tinubu", "Atiku"],
+            categories: ["Tinubu", "Obi", "Atiku"],
             labels: { show: 1 },
             axisTicks: { show: !1 },
             axisBorder: { show: !1 }
@@ -35,23 +35,14 @@ var columnChartWidget,
             colors: ['#3ad29f', '#dc3545'],
             useSeriesColors: false
         },
-        // fill: {
-        //     opacity: 1,
-        //     colors: ['#3ad29f', '#E91E63'],
-        //     image: {
-        //         src: ['../assets/images/atiku.jpg', '../assets/images/atiku.jpg', '../assets/images/atiku.jpg'],
-        //         width: undefined,
-        //         height: undefined
-        //     },
-        // },
         grid: { show: 1, padding: { top: 0, right: 0, bottom: 0, left: -15 } }
     },
-    columnChartWidgetCtn = document.querySelector("#sentimentByCandidateChart-2");
-columnChartWidgetCtn && (columnChartWidget = new ApexCharts(columnChartWidgetCtn, columnChartWidgetoptions)).render();
+    columnChartWidgetCtn10 = document.querySelector("#sentimentByCandidateChart-10");
+columnChartWidgetCtn10 && (columnChartWidget10 = new ApexCharts(columnChartWidgetCtn10, columnChartWidgetoptions10)).render();
 
 // donutChart
-var donutchart,
-    donutChartOptions = {
+var donutchart10,
+    donutChartOptions10 = {
         series: [178, 161, 99],
         chart: {
             type: "donut", height: 305, zoom: { enabled: !1 }
@@ -79,12 +70,12 @@ var donutchart,
             colors: ['#3ad29f', '#E91E63', '#1b68ff'], width: 1
         },
     },
-    donutchartCtn = document.querySelector("#mostPopularHashtag");
-donutchartCtn && (donutchart = new ApexCharts(donutchartCtn, donutChartOptions)).render();
+    donutchartCtn10 = document.querySelector("#mostPopularHashtag10");
+donutchartCtn10 && (donutchart10 = new ApexCharts(donutchartCtn10, donutChartOptions10)).render();
 
 // lineChart daily tweet
-var lineChart,
-    lineChartoptions = {
+var lineChart10,
+    lineChartoptions10 = {
         series: [
             {
                 name: "Obi",
@@ -169,8 +160,8 @@ var lineChart,
             position: "back", xaxis: { lines: { show: !1 } },
             yaxis: { lines: { show: !0 } }, row: { colors: void 0, opacity: .5 }, column: { colors: void 0, opacity: .5 }, padding: { top: 0, right: 0, bottom: 0, left: 0 }
         }
-    }, lineChartCtn = document.querySelector("#dailyTweet");
-lineChartCtn && (lineChart = new ApexCharts(lineChartCtn, lineChartoptions)).render();
+    }, lineChartCtn10 = document.querySelector("#dailyTweet10");
+lineChartCtn10 && (lineChart10 = new ApexCharts(lineChartCtn10, lineChartoptions10)).render();
 
 
 function padTo2Digits(num) {
@@ -503,3 +494,339 @@ var columnChartWidget3,
     },
     columnChartWidgetCtn3 = document.querySelector("#sentimentByCandidateChart-3");
 columnChartWidgetCtn3 && (columnChartWidget3 = new ApexCharts(columnChartWidgetCtn3, columnChartWidgetoptions3)).render();
+
+
+
+
+var options = {
+    series: [437],
+    chart: {
+        height: 200,
+        type: 'radialBar',
+        toolbar: {
+            show: true
+        }
+    },
+    plotOptions: {
+        radialBar: {
+            startAngle: -135,
+            endAngle: 225,
+            hollow: {
+                margin: 0,
+                size: '70%',
+                background: '#fff',
+                image: undefined,
+                imageOffsetX: 0,
+                imageOffsetY: 0,
+                position: 'front',
+                dropShadow: {
+                    enabled: true,
+                    top: 3,
+                    left: 0,
+                    blur: 4,
+                    opacity: 0.24
+                }
+            },
+            track: {
+                background: '#fff',
+                strokeWidth: '67%',
+                margin: 0, // margin is in pixels
+                dropShadow: {
+                    enabled: true,
+                    top: -3,
+                    left: 0,
+                    blur: 4,
+                    opacity: 0.35
+                }
+            },
+
+            dataLabels: {
+                show: true,
+                name: {
+                    offsetY: -10,
+                    show: true,
+                    color: '#888',
+                    fontSize: '17px'
+                },
+                value: {
+                    formatter: function (val) {
+                        return parseInt(val);
+                    },
+                    color: '#111',
+                    fontSize: '36px',
+                    show: true,
+                }
+            }
+        }
+    },
+    fill: {
+        type: 'gradient',
+        gradient: {
+            shade: 'dark',
+            type: 'horizontal',
+            shadeIntensity: 0.5,
+            gradientToColors: ['#ABE5A1'],
+            inverseColors: true,
+            opacityFrom: 1,
+            opacityTo: 1,
+            stops: [0, 100]
+        }
+    },
+    stroke: {
+        lineCap: 'round'
+    },
+    labels: ['Post'],
+};
+
+var chart = new ApexCharts(document.querySelector("#totalpost"), options);
+chart.render();
+
+
+var options = {
+    series: [210],
+    chart: {
+        height: 200,
+        type: 'radialBar',
+        toolbar: {
+            show: true
+        }
+    },
+    plotOptions: {
+        radialBar: {
+            startAngle: -135,
+            endAngle: 225,
+            hollow: {
+                margin: 0,
+                size: '70%',
+                background: '#fff',
+                image: undefined,
+                imageOffsetX: 0,
+                imageOffsetY: 0,
+                position: 'front',
+                dropShadow: {
+                    enabled: true,
+                    top: 3,
+                    left: 0,
+                    blur: 4,
+                    opacity: 0.24
+                }
+            },
+            track: {
+                background: '#fff',
+                strokeWidth: '67%',
+                margin: 0, // margin is in pixels
+                dropShadow: {
+                    enabled: true,
+                    top: -3,
+                    left: 0,
+                    blur: 4,
+                    opacity: 0.35
+                }
+            },
+
+            dataLabels: {
+                show: true,
+                name: {
+                    offsetY: -10,
+                    show: true,
+                    color: '#888',
+                    fontSize: '17px'
+                },
+                value: {
+                    formatter: function (val) {
+                        return parseInt(val);
+                    },
+                    color: '#111',
+                    fontSize: '36px',
+                    show: true,
+                }
+            }
+        }
+    },
+    fill: {
+        type: 'gradient',
+        gradient: {
+            shade: 'dark',
+            type: 'horizontal',
+            shadeIntensity: 0.5,
+            gradientToColors: ['#ABE5A1'],
+            inverseColors: true,
+            opacityFrom: 1,
+            opacityTo: 1,
+            stops: [0, 100]
+        }
+    },
+    stroke: {
+        lineCap: 'round'
+    },
+    labels: ['Engagement'],
+};
+
+var chart = new ApexCharts(document.querySelector("#engagement"), options);
+chart.render();
+
+var options = {
+    series: [21],
+    chart: {
+        height: 200,
+        type: 'radialBar',
+        toolbar: {
+            show: true
+        }
+    },
+    plotOptions: {
+        radialBar: {
+            startAngle: -135,
+            endAngle: 225,
+            hollow: {
+                margin: 0,
+                size: '70%',
+                background: '#fff',
+                image: undefined,
+                imageOffsetX: 0,
+                imageOffsetY: 0,
+                position: 'front',
+                dropShadow: {
+                    enabled: true,
+                    top: 3,
+                    left: 0,
+                    blur: 4,
+                    opacity: 0.24
+                }
+            },
+            track: {
+                background: '#fff',
+                strokeWidth: '67%',
+                margin: 0, // margin is in pixels
+                dropShadow: {
+                    enabled: true,
+                    top: -3,
+                    left: 0,
+                    blur: 4,
+                    opacity: 0.35
+                }
+            },
+
+            dataLabels: {
+                show: true,
+                name: {
+                    offsetY: -10,
+                    show: true,
+                    color: '#888',
+                    fontSize: '17px'
+                },
+                value: {
+                    formatter: function (val) {
+                        return parseInt(val);
+                    },
+                    color: '#111',
+                    fontSize: '36px',
+                    show: true,
+                }
+            }
+        }
+    },
+    fill: {
+        type: 'gradient',
+        gradient: {
+            shade: 'dark',
+            type: 'horizontal',
+            shadeIntensity: 0.5,
+            gradientToColors: ['#ABE5A1'],
+            inverseColors: true,
+            opacityFrom: 1,
+            opacityTo: 1,
+            stops: [0, 100]
+        }
+    },
+    stroke: {
+        lineCap: 'round'
+    },
+    labels: ['Video Views'],
+};
+
+var chart = new ApexCharts(document.querySelector("#video"), options);
+chart.render();
+
+var options = {
+    series: [321],
+    chart: {
+        height: 200,
+        type: 'radialBar',
+        toolbar: {
+            show: true
+        }
+    },
+    plotOptions: {
+        radialBar: {
+            startAngle: -135,
+            endAngle: 225,
+            hollow: {
+                margin: 0,
+                size: '70%',
+                background: '#fff',
+                image: undefined,
+                imageOffsetX: 0,
+                imageOffsetY: 0,
+                position: 'front',
+                dropShadow: {
+                    enabled: true,
+                    top: 3,
+                    left: 0,
+                    blur: 4,
+                    opacity: 0.24
+                }
+            },
+            track: {
+                background: '#fff',
+                strokeWidth: '67%',
+                margin: 0, // margin is in pixels
+                dropShadow: {
+                    enabled: true,
+                    top: -3,
+                    left: 0,
+                    blur: 4,
+                    opacity: 0.35
+                }
+            },
+
+            dataLabels: {
+                show: true,
+                name: {
+                    offsetY: -10,
+                    show: true,
+                    color: '#888',
+                    fontSize: '17px'
+                },
+                value: {
+                    formatter: function (val) {
+                        return parseInt(val);
+                    },
+                    color: '#111',
+                    fontSize: '36px',
+                    show: true,
+                }
+            }
+        }
+    },
+    fill: {
+        type: 'gradient',
+        gradient: {
+            shade: 'dark',
+            type: 'horizontal',
+            shadeIntensity: 0.5,
+            gradientToColors: ['#ececec'],
+            inverseColors: true,
+            opacityFrom: 1,
+            opacityTo: 1,
+            stops: [0, 100]
+        }
+    },
+    stroke: {
+        lineCap: 'round'
+    },
+    labels: ['Impression'],
+};
+
+var chart = new ApexCharts(document.querySelector("#impression"), options);
+chart.render();

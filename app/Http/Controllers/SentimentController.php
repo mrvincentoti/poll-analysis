@@ -60,6 +60,16 @@ class SentimentController extends Controller
         return view('geodata');
     }
 
+    public function facebook()
+    {
+        return view('facebook');
+    }
+
+    public function instagram()
+    {
+        return view('instagram');
+    }
+
     /**
      * Show the form for editing the specified resource.
      *
