@@ -13,7 +13,7 @@
                         <a href="{{ route('sentiments') }}" type="button" class="btn mb-2 btn-outline-success"><span class="fe fe-twitter fe-32"></span></a>
                     </div>
                     <div class="col text-center" style="margin-top: 20px;">
-                        <span style="font-size: 25px; font-weight: bold;">INSTAGRAM</span>
+                        <span style="font-size: 25px; font-weight: bold;">FACEBOOK</span>
                     </div>
                     <div class="col text-center" style="margin-top: 25px;">
 
