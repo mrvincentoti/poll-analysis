@@ -499,7 +499,7 @@ columnChartWidgetCtn3 && (columnChartWidget3 = new ApexCharts(columnChartWidgetC
 
 
 var options = {
-    series: [437],
+    series: [564],
     chart: {
         height: 200,
         type: 'radialBar',
@@ -583,7 +583,7 @@ chart.render();
 
 
 var options = {
-    series: [210],
+    series: [11934],
     chart: {
         height: 200,
         type: 'radialBar',
@@ -666,7 +666,7 @@ var chart = new ApexCharts(document.querySelector("#engagement"), options);
 chart.render();
 
 var options = {
-    series: [21],
+    series: [201],
     chart: {
         height: 200,
         type: 'radialBar',
@@ -749,7 +749,7 @@ var chart = new ApexCharts(document.querySelector("#video"), options);
 chart.render();
 
 var options = {
-    series: [321],
+    series: [7863],
     chart: {
         height: 200,
         type: 'radialBar',
