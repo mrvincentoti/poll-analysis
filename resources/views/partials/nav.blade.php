@@ -32,6 +32,18 @@
                             <span class="ml-lg-2">Sentiment Analysis</span><span class="sr-only">(current)</span>
                         </a>
                     </li>
+                    <li class="nav-item dropdown">
+                        <a href="#" id="ui-elementsDropdown" class="dropdown-toggle nav-link" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <span class="ml-lg-2">Rally Analysis</span>
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="ui-elementsDropdown">
+                            @foreach($menu as $m)
+                            <a class="nav-link pl-lg-2" href="{{ route('rally', ['id' => $m->id]) }}"><span class="ml-1">{{$m->location_name}}</span><i class="ml-5 fe fe-arrow-right fe-16"></i></a>
+                            <hr />
+                            @endforeach
+                        </div>
+                    </li>
+
                     <li class="nav-item">
                         <a href="{{ route('geodata') }}" class="nav-link">
                             <span class="ml-lg-2">Tweets Analysis Per Region</span><span class="sr-only">(current)</span>
@@ -41,7 +53,6 @@
             </div>
             <form class="form-inline ml-md-auto d-none d-lg-flex text-muted">
                 <span class="mr-sm-5 bg-transparent border-0 pl-4 text-muted">Powered By OANDI SOLDEV</span>
-                <!-- <input class="form-control mr-sm-2 bg-transparent border-0 pl-4 text-muted" type="search" placeholder="Type something..." aria-label="Search"> -->
             </form>
             <ul class="navbar-nav d-flex flex-row">
                 <li class="nav-item">

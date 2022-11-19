@@ -13,3 +13,16 @@
 #pvc-states small{
     font-size: 0.60rem !important;
 }
+
+.my-bg-white{
+    background-color: #ffffff !important;
+    color: #000000 !important;
+}
+
+.my-color-black {
+    color: #000000 !important;
+}
+
+#total-comments{
+    border-right: 4px solid #ccc;
+}

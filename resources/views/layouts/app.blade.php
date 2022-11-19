@@ -614,6 +614,257 @@
     sentimentByCandidateChart.barGroupsPadding(2);
     sentimentByCandidateChart.draw();
   </script>
+  <script>
+    var options = {
+      series: [{
+        name: 'Net Profit',
+        data: [44, 55, 57, 56, 61, 58, 63, 60, 66, 90, 39, 67, 44, 55, 57, 56, 61, 58, 63, 60, 66, 90, 39, 67, 44, 55, 57, 56, 61, 58, 63, 60, 66, 90, 39, 67]
+      }],
+      chart: {
+        type: 'bar',
+        height: 350
+      },
+      plotOptions: {
+        bar: {
+          horizontal: false,
+          columnWidth: '30%',
+          endingShape: 'rounded'
+        },
+      },
+      dataLabels: {
+        enabled: false
+      },
+      stroke: {
+        show: true,
+        width: 2,
+        colors: ['transparent']
+      },
+      xaxis: {
+        categories: ['Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Oct', 'Nov', 'Dec',
+          'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Oct', 'Nov', 'Dec',
+          'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Oct', 'Nov', 'Dec'
+        ],
+      },
+      yaxis: {
+        title: {
+          text: '$ (thousands)'
+        }
+      },
+      fill: {
+        opacity: 1
+      },
+      tooltip: {
+        y: {
+          formatter: function(val) {
+            return "$ " + val + " thousands"
+          }
+        }
+      }
+    };
+
+    var chart = new ApexCharts(document.querySelector("#demographics"), options);
+    chart.render();
+  </script>
+  <!--/comment percentage-->
+  <script>
+    var total = "<?php echo isset($location->total) ? $location->total : ''; ?>";
+    var positive = "<?php echo isset($location->positive) ? $location->positive : ''; ?>";
+    var negative = "<?php echo isset($location->negative) ? $location->negative : ''; ?>";
+    var neutral = "<?php echo isset($location->neutral) ? $location->neutral : ''; ?>";
+    var stateName = "<?php echo isset($location->location_name) ? $location->location_name : ''; ?>";
+
+    var options = {
+      series: [Math.floor((negative / total) * 100), Math.floor((positive / total) * 100), Math.floor((neutral / total) * 100)],
+      fill: {
+        colors: ['#F44336', '#00e396', '#ccc']
+      },
+      chart: {
+        height: 350,
+        type: 'radialBar',
+      },
+      plotOptions: {
+        radialBar: {
+          dataLabels: {
+            name: {
+              fontSize: '22px',
+            },
+            value: {
+              fontSize: '16px',
+            },
+            total: {
+              show: true,
+              label: 'Total',
+              formatter: function(w) {
+                // By default this function returns the average of all series. The below is just an example to show the use of custom formatter function
+                return total
+              }
+            }
+          }
+        }
+      },
+      labels: ['Negative', 'Positive', 'Neutral'],
+    };
+
+    var chart = new ApexCharts(document.querySelector("#total-comments"), options);
+    chart.render();
+  </script>
+  <!--/comment count section-->
+  <script>
+    var total = "<?php echo isset($location->total) ? $location->total : ''; ?>";
+    var positive = "<?php echo isset($location->positive) ? $location->positive : ''; ?>";
+    var negative = "<?php echo isset($location->negative) ? $location->negative : ''; ?>";
+    var neutral = "<?php echo isset($location->neutral) ? $location->neutral : ''; ?>";
+    var stateName = "<?php echo isset($location->location_name) ? $location->location_name : ''; ?>";
+
+    var options = {
+      series: [{
+        name: 'Negative',
+        data: [negative]
+      }, {
+        name: 'Positive',
+        data: [positive]
+      }, {
+        name: 'Neutral',
+        data: [neutral]
+      }],
+      colors: ['#F44336', '#00e396', '#ccc'],
+      chart: {
+        type: 'bar',
+        height: 350
+      },
+      plotOptions: {
+        bar: {
+          horizontal: false,
+          columnWidth: '20%',
+          endingShape: 'rounded'
+        },
+      },
+      dataLabels: {
+        enabled: false
+      },
+      stroke: {
+        show: true,
+        width: 2,
+        colors: ['transparent']
+      },
+      xaxis: {
+        categories: [stateName],
+      },
+      yaxis: {
+        title: {
+          text: ''
+        }
+      },
+      fill: {
+        opacity: 1
+      },
+      tooltip: {
+        y: {
+          formatter: function(val) {
+            return " " + val + " "
+          }
+        }
+      }
+    };
+
+    var chart = new ApexCharts(document.querySelector("#comment-count"), options);
+    chart.render();
+  </script>
+  <!--/State distributions-->
+  <script>
+    $(document).ready(function() {
+      var id = "<?php echo isset($location->id) ? $location->id : ''; ?>";
+      $.ajax({
+        type: "GET",
+        cache: false,
+        url: "/salvafrika/admin/getStateData/" + id,
+        success: function(data) {
+          var pos = []
+          var neg = []
+          var neu = []
+          pos.push(data['nc'].split(",")[0])
+          neg.push(data['nc'].split(",")[1])
+          neu.push(data['nc'].split(",")[2])
+
+          pos.push(data['nw'].split(",")[0])
+          neg.push(data['nw'].split(",")[1])
+          neu.push(data['nw'].split(",")[2])
+
+          pos.push(data['ss'].split(",")[0])
+          neg.push(data['ss'].split(",")[1])
+          neu.push(data['ss'].split(",")[2])
+
+          pos.push(data['ne'].split(",")[0])
+          neg.push(data['ne'].split(",")[1])
+          neu.push(data['ne'].split(",")[2])
+
+          pos.push(data['se'].split(",")[0])
+          neg.push(data['se'].split(",")[1])
+          neu.push(data['se'].split(",")[2])
+
+          pos.push(data['sw'].split(",")[0])
+          neg.push(data['sw'].split(",")[1])
+          neu.push(data['sw'].split(",")[2])
+
+          var options = {
+            series: [{
+                name: 'Negative',
+                data: neg
+              }, {
+                name: 'Positive',
+                data: pos
+              },
+              {
+                name: 'Neutral',
+                data: neu
+              }
+            ],
+            colors: ['#F44336', '#00E396', '#ccc'],
+            chart: {
+              type: 'bar',
+              height: 350
+            },
+            plotOptions: {
+              bar: {
+                horizontal: false,
+                columnWidth: '25%',
+                endingShape: 'rounded'
+              },
+            },
+            dataLabels: {
+              enabled: false
+            },
+            stroke: {
+              show: true,
+              width: 2,
+              colors: ['transparent']
+            },
+            xaxis: {
+              categories: ['North Central', 'North West', 'South South', 'North East', 'South East', 'South West'],
+            },
+            yaxis: {
+              title: {
+                text: ''
+              }
+            },
+            fill: {
+              opacity: 1
+            },
+            tooltip: {
+              y: {
+                formatter: function(val) {
+                  return " " + val + " "
+                }
+              }
+            }
+          };
+
+          var chart = new ApexCharts(document.querySelector("#demo-distro"), options);
+          chart.render();
+        }
+      });
+    });
+  </script>
 </body>
 
 </html>
