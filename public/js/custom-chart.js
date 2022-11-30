@@ -503,3 +503,176 @@ var columnChartWidget3,
     },
     columnChartWidgetCtn3 = document.querySelector("#sentimentByCandidateChart-3");
 columnChartWidgetCtn3 && (columnChartWidget3 = new ApexCharts(columnChartWidgetCtn3, columnChartWidgetoptions3)).render();
+
+
+// chart 4
+var columnChartWidget,
+    columnChartWidgetoptions = {
+        series: [
+            { name: "Positive", data: generateRandomNumber(2400, 6000, 4) },
+            { name: "Negative", data: generateRandomNumber(1400, 2000, 4) }
+        ],
+        chart: {
+            type: "bar",
+            height: 316,
+            stacked: !1,
+            columnWidth: "70%",
+            toolbar: { show: !1 },
+            zoom: { enabled: !1 }
+        },
+        theme: { mode: colors.chartTheme },
+        dataLabels: { enabled: !1 },
+        plotOptions: {
+            bar: { horizontal: !1, columnWidth: "10%", radius: 20, enableShades: !1, endingShape: "rounded" }
+        },
+        xaxis: {
+            type: "text",
+            categories: ["Shehu", " Wali", "Sani Bello", "Sani wushishi"],
+            labels: { show: 1 },
+            axisTicks: { show: !1 },
+            axisBorder: { show: !1 }
+        },
+        yaxis: {
+            labels: { show: 1 }
+        },
+        legend: {
+            position: 'top',
+            show: 1,
+        },
+        labels: {
+            colors: ['#3ad29f', '#dc3545'],
+            useSeriesColors: false
+        },
+        grid: { show: 1, padding: { top: 0, right: 0, bottom: 0, left: -15 } }
+    },
+    columnChartWidgetCtn = document.querySelector("#sentimentByCandidateChart-4");
+columnChartWidgetCtn && (columnChartWidget = new ApexCharts(columnChartWidgetCtn, columnChartWidgetoptions)).render();
+
+
+// donutChart
+var donutchart,
+    donutChartOptions = {
+        series: [178, 161, 99, 49],
+        chart: {
+            type: "donut", height: 305, zoom: { enabled: !1 }
+        },
+        theme: {
+            mode: ['#343a40']
+        },
+        plotOptions: {
+            pie: {
+                donut: { size: "40%" },
+                expandOnClick: 1
+            }
+        },
+        labels: ["Shehu", "Wali", "Sani Bello", "Sani Wushishi"],
+        legend: {
+            position: "bottom", fontFamily: base.defaultFontFamily, fontWeight: 400,
+            labels: { colors: ['#3ad29f', '#E91E63', '#1b68ff', '#1b68fe'], useSeriesColors: !1 },
+            horizontalAlign: "left", fontFamily: base.defaultFontFamily,
+            markers: { width: 10, height: 10, strokeWidth: 0, strokeColor: "#fff", radius: 6 },
+            itemMargin: { horizontal: 10, vertical: 2 },
+            onItemClick: { toggleDataSeries: !0 },
+            onItemHover: { highlightDataSeries: !0 }
+        },
+        stroke: {
+            colors: ['#3ad29f', '#E91E63', '#1b68ff', '#1b68fe'], width: 1
+        },
+    },
+    donutchartCtn = document.querySelector("#mostPopularHashtag-4");
+donutchartCtn && (donutchart = new ApexCharts(donutchartCtn, donutChartOptions)).render();
+
+// daily tweets
+// lineChart daily tweet
+var lineChart,
+    lineChartoptions = {
+        series: [
+            {
+                name: "Shehu",
+                data: generateRandomNumber(1, 1987, 10),
+            },
+            {
+                name: "Wali",
+                data: generateRandomNumber(1, 1789, 10),
+            },
+            {
+                name: "Sani Bello",
+                data: generateRandomNumber(1, 900, 10),
+            },
+            {
+                name: "Sani Wushishi",
+                data: generateRandomNumber(1, 497, 10),
+            }
+        ],
+        chart: {
+            height: 350, type: "line",
+            background: !1, zoom: { enabled: !1 },
+            toolbar: { show: !1 }
+        },
+        theme: {
+            mode: colors.chartTheme
+        },
+        stroke: {
+            show: !0,
+            curve: "smooth",
+            lineCap: "round",
+            colors: chartColors,
+            width: [3, 2, 3],
+            dashArray: [0, 0, 0]
+        },
+        dataLabels: { enabled: !1 },
+        responsive: [
+            {
+                breakpoint: 480, options: { legend: { position: "bottom", offsetX: -10, offsetY: 0 } }
+            }
+        ],
+        markers: {
+            size: 4,
+            colors: base.primaryColor,
+            strokeColors: colors.borderColor,
+            strokeWidth: 2, strokeOpacity: .9,
+            strokeDashArray: 0,
+            fillOpacity: 1,
+            discrete: [],
+            shape: "circle",
+            radius: 2,
+            offsetX: 0,
+            offsetY: 0,
+            onClick: void 0,
+            onDblClick: void 0,
+            showNullDataPoints: !0,
+            hover: { size: void 0, sizeOffset: 3 }
+        },
+        xaxis: {
+            type: "datetime",
+            categories: generateDate(),
+            labels: {
+                show: !0, trim: !1, minHeight: void 0, maxHeight: 120, style: { colors: colors.mutedColor, cssClass: "text-muted", fontFamily: base.defaultFontFamily }
+            },
+            axisBorder: { show: !1 }
+        },
+        yaxis: {
+            labels: {
+                show: !0, trim: !1, offsetX: -10, minHeight: void 0, maxHeight: 120,
+                style: {
+                    colors: colors.mutedColor, cssClass: "text-muted", fontFamily: base.defaultFontFamily
+                }
+            }
+        },
+        legend: {
+            position: "top", fontFamily: base.defaultFontFamily, fontWeight: 400,
+            labels: { colors: colors.mutedColor, useSeriesColors: !1 },
+            markers: {
+                width: 10, height: 10, strokeWidth: 0, strokeColor: colors.borderColor,
+                fillColors: chartColors, radius: 6, customHTML: void 0, onClick: void 0, offsetX: 0, offsetY: 0
+            },
+            itemMargin: { horizontal: 10, vertical: 0 },
+            onItemClick: { toggleDataSeries: !0 }, onItemHover: { highlightDataSeries: !0 }
+        },
+        grid: {
+            show: !0, borderColor: colors.borderColor, strokeDashArray: 0,
+            position: "back", xaxis: { lines: { show: !1 } },
+            yaxis: { lines: { show: !0 } }, row: { colors: void 0, opacity: .5 }, column: { colors: void 0, opacity: .5 }, padding: { top: 0, right: 0, bottom: 0, left: 0 }
+        }
+    }, lineChartCtn = document.querySelector("#dailyTweet-4");
+lineChartCtn && (lineChart = new ApexCharts(lineChartCtn, lineChartoptions)).render();

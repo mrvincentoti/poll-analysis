@@ -159,4 +159,10 @@ class SentimentController extends Controller
         $location = DB::table('regions')->where('id', $id)->first();
         return response()->json($location);
     }
+
+
+    public function state()
+    {
+        return view('state');
+    }
 }

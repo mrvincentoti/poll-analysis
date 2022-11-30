@@ -28,6 +28,11 @@
                         </a>
                     </li>
                     <li class="nav-item">
+                        <a href="{{ route('state') }}" class="nav-link">
+                            <span class="ml-lg-2">State Analysis</span><span class="sr-only"></span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
                         <a href="{{ route('sentiments') }}" class="nav-link">
                             <span class="ml-lg-2">Sentiment Analysis</span><span class="sr-only">(current)</span>
                         </a>

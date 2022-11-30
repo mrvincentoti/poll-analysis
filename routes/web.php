@@ -28,3 +28,4 @@ Route::get('/salvafrika/admin', [SentimentController::class, 'admin'])->name('ad
 
 Route::post('/salvafrika/admin/store', [SentimentController::class, 'store'])->name('admin.store');
 Route::get('/salvafrika/admin/getStateData/{id}', [SentimentController::class, 'getStateData'])->name('getStateData');
+Route::get('state/sentiment/analysis', [SentimentController::class, 'state'])->name('state');
